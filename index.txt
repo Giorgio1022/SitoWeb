@@ -1,5 +1,4 @@
 <html> 
 <head> </head>
 <body> Ciao mondo, viva Semonte </body>
-//ciao
 </html>
